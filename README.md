@@ -10,4 +10,7 @@ Simple Gorilla Tag pull mod
 > • more animations
 > • GUI custimization
 > • and a **lot** more!
+
+
+
 ![image](https://github.com/user-attachments/assets/424accac-ba95-4e37-8a5b-884d237fab2a)
